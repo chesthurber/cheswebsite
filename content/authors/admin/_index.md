@@ -1,8 +1,8 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Political scientist researching and teaching on topics related to international security, conflict processes, and contentious politics.
+
 education:
   courses:
   - course: PhD | Tufts University

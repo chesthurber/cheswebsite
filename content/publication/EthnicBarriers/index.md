@@ -3,8 +3,9 @@ abstract: While ethnic cleavages have featured prominently in our understanding 
 
 authors:
 - admin
+- "*Journal of Global Security Studies*"
 date: "2018-07-10T00:00:00Z"
-doi: 
+doi:
 featured: false
 image:
   caption: 'The impact of ethnic exclusion on violent versus nonviolent campaigns.'
