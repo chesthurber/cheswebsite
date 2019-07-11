@@ -7,7 +7,7 @@ Drawing on cases from Nepal and Syria, as well as global cross-national data, th
 
 authors:
 - admin
-- "Book Manuscript, Under Review"
+- "Book Manuscript"
 date: "2019-07-02T00:00:00Z"
 doi:
 featured: true
