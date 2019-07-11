@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Academic Appointments"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Northern Illinois University"
+  company = "Assistant Professor of Political Science"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "DeKalb, IL"
+  date_start = "2016-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "University of Chicago"
+  company = "Postdoctroal Scholar | Chicago Project on Security and Terrorism"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chicago, IL"
+  date_start = "2015-08-01"
+  date_end = "2016-07-31"
+  description = """
+  """
+  
+[[experience]]
+  title = "Harvard Kennedy School"
+  company = "Research Fellow | Belfer Center for Science and International Affairs"
+  company_url = ""
+  location = "Cambridge, MA"
+  date_start = "2014-08-01"
+  date_end = "2015-07-31"
+  description = """
+  """
+
 
 +++

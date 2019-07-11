@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = " "
+title = ""
 subtitle = ""
 
 [design]
@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0", "100px", "0"]
+  padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
