@@ -37,7 +37,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "200px", "20px", "200px"]
+  padding = ["20px", "10%", "20px", "20%"]
 
 [advanced]
  # Custom CSS. 
@@ -50,7 +50,7 @@ subtitle = ""
 I am a political scientist whose work lies at the intersection of the subfields of international relations and comparative politics. My scholarship examines the range of contentious politics from civil resistance campaigns to civil wars. I am especially interested in the sociological underpinnings of conflicts as well as their transnational dimensions. I focus on questions such as when and how do social groups mobilize in campaigns of political resistance? how do such movements chose between violent and nonviolent strategies? and how do social structures, state institutions, and transnational forces shape patterns of conflict? In answering these questions, I utilize a combination of qualitative and quantitative methods. This has involved conducting field research in Nepal as well as working with colleagues to create an original dataset of the ethnic composition of military forces in the Middle East and Africa.
 
 <figure>
-<img src="Thabang.jpg" class="center-block" alt="Interviews in Thabang" style="width:60%;height:60%;">
+<img src="Thabang.jpg" class="center-block" alt="Interviews in Thabang" style="width:80%;height:auto;">
 <figcaption>
 Conducting interviews in Thabang, Nepal
 </figcaption>
