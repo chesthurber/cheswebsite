@@ -1,6 +1,5 @@
 [build]
   command = "hugo --themesDir ../../"
-  base    = "cheswebsite"
   publish = "cheswebsite/public"
 
 [build.environment]
