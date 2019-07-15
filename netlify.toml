@@ -1,6 +1,6 @@
 [build]
-  command = "hugo --themesDir ../../"
-  publish = "cheswebsite/public"
+  command = "hugo"
+  publish = "public"
 
 [build.environment]
   HUGO_THEME = "repo"
