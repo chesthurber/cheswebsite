@@ -9,14 +9,14 @@ title = "Ches Thurber"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://chesthurber.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; Ches Thurber 2019"
+copyright = "&copy; Ches Thurber 2019 | Header photo by Subodh R. Serpali"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-30937606-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
