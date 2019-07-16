@@ -25,7 +25,7 @@ tags:
 title: Social Ties and Civil Resistance
 url_code: ""
 url_dataset: 
-url_pdf: 
+url_pdf: https://doi.org/10.1093/isq/sqz049
 url_poster: ""
 url_project: ""
 url_slides: ""
