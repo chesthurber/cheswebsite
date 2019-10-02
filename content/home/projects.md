@@ -32,6 +32,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Graduate"
     tag = "Graduate"
+    
+  [[content.filter_button]]
+    name = "R Workshops"
+    tag = "R Workshops"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
