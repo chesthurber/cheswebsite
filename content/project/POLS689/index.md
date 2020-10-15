@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: "pdf/POLS687.pdf"
+external_link: "pdf/POLS689.pdf"
 image:
   caption:
   focal_point: Smart
