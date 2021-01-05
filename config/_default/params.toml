@@ -55,8 +55,7 @@ phone = "815-753-1011"
 address = "414 Zulauf Hall, Northern Illinois University, DeKalb, IL 60115, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """TBD <br>
-                  TBD"""
+office_hours = "https://calendly.com/chesthurber/officehours"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
