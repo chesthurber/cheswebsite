@@ -3,8 +3,8 @@ abstract: "From Eastern Europe to South Africa to the Arab Spring, nonviolent ac
 
 authors:
 - admin
-- "Cambridge Univesity Press (In press, 2021)"
-date: "2021-01-04T00:00:00Z"
+- "Cambridge Univesity Press"
+date: "2021-09-30T00:00:00Z"
 doi:
 featured: true
 image:
@@ -17,16 +17,16 @@ publication:
 publication_short: 
 publication_types:
 - "5"
-publishDate: "2019-07-02T00:00:00Z"
+publishDate: "2021-09-30T00:00:00Z"
 slides: 
 summary: "Why are some groups able to adopt and sustain a strategy of nonviolent civil resistance while others are either unwilling or unable to do so? Drawing on cases from Nepal and Syria, as well as global cross-national data, the book details the processes through which challenger organizations collect information, deliberate, and decide on whether a strategy of exclusively nonviolent resistance may be viable. I develop a relational theory, showing how the social ties that underpin challenger organizations shape their ability and willingness to attempt regime change using nonviolent means alone."
 tags:
 title: "Between Mao and Gandhi: the Social Roots of Civil Resistance"
 url_code: 
 url_dataset:
-url_pdf: 
+url_pdf: "https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/between-mao-and-gandhi-social-roots-civil-resistance?format=HB"
 url_poster: 
-url_project: 
+url_project:
 url_slides: 
 url_source: 
 url_video: 
