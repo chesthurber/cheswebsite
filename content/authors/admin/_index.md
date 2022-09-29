@@ -1,8 +1,7 @@
 ---
-authors:
-- admin
-bio: Political scientist researching and teaching on topics related to conflict, security, and global governance.
-
+authors: admin
+bio: Political scientist researching and teaching on topics related to conflict, security,
+  and global governance.
 education:
   courses:
   - course: PhD | Tufts University
@@ -13,18 +12,17 @@ education:
     year: 2010
   - course: BA | Middlebury College
     year: 2004
-email: ""
+email: ''
 interests:
 - International Security
 - Global Governance
 - Contentious Politics
 - Conflict and Peace
 - Quantitative and Qualitative Research Methods
-
 name: Ches Thurber
 organizations:
 - name: NIU Political Science
-  url: "https://polisci.niu.edu"
+  url: https://polisci.niu.edu
 role: Associate Professor
 social:
 - icon: envelope
@@ -33,16 +31,16 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/chesthurber
-- icon: google-scholar
+- icon: "google-scholar"
   icon_pack: ai
-  link: "https://scholar.google.com/citations?user=3FkjaTQAAAAJ&hl=en&oi=ao"
+  link: https://scholar.google.com/citations?user=3FkjaTQAAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: ai
   link: "https://orcid.org/0000-0002-3407-7589"
 - icon: github
   icon_pack: fab
   link: https://github.com/chesthurber
-superuser: true
+superuser: yes
 user_groups:
 - Researchers
 - Visitors
