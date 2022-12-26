@@ -14,10 +14,11 @@ education:
     year: 2004
 email: ''
 interests:
-- International Security
-- Global Governance
-- Contentious Politics
-- Conflict and Peace
+- Conflict Processes
+- Peacebuilding
+- Protest Movements
+- Human Rights
+- Public Policy
 - Quantitative and Qualitative Research Methods
 name: Ches Thurber
 organizations:
