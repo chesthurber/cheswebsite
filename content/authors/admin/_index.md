@@ -21,7 +21,7 @@ interests:
 name: Ches Thurber
 organizations:
 - name: NIU School of Public and Global Affairs
-  url: https://polisci.niu.edu
+  url: https://www.niu.edu/spga/index.shtml
 role: Associate Professor
 social:
 - icon: envelope
@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-Dr. Ches Thurber studies global conflict, human rights, and public policy, with an emphasis on popular struggles for democracy, equality, and social justice. His book, [*Between Mao and Gandhi: the Social Roots of Civil Resistance*](https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/between-mao-and-gandhi-social-roots-civil-resistance?format=HB) (Cambridge University Press, 2021), examines dissident choices between violent and nonviolent strategies of resistance. His research has been published or is forthcoming in *International Studies Quarterly*, the *Journal of Peace Research, Conflict Management and Peace Science*, and the *Journal of Global Security Studies*, among others. Dr. Thurber is an Associate Professor in the School of Public and Global Affairs at Northern Illinois University and a Visiting Scholar at the University of Denver's Josef Korbel School of International Studies. He previously held research appointments at the University of Chicago and the Harvard Kennedy School. He received his Ph.D. from The Fletcher School of Law and Diplomacy at Tufts University and his B.A. from Middlebury College. Prior to his academic career, he worked as a legislative policy aide in the U.S. House of Representatives and the Vermont General Assembly.
+Dr. Ches Thurber studies global conflict, human rights, and public policy. His book, [*Between Mao and Gandhi: the Social Roots of Civil Resistance*](https://www.cambridge.org/us/academic/subjects/politics-international-relations/comparative-politics/between-mao-and-gandhi-social-roots-civil-resistance?format=HB) (Cambridge University Press, 2021), examines dissident choices between violent and nonviolent strategies of resistance. His research has been published or is forthcoming in *International Studies Quarterly*, the *Journal of Peace Research, Conflict Management and Peace Science*, and the *Journal of Global Security Studies*, among others. Dr. Thurber is an Associate Professor in the School of Public and Global Affairs at Northern Illinois University and a Visiting Scholar at the University of Denver's Josef Korbel School of International Studies. He previously held research appointments at the University of Chicago and the Harvard Kennedy School. He received his Ph.D. from The Fletcher School of Law and Diplomacy at Tufts University and his B.A. from Middlebury College. Prior to his academic career, he worked as a legislative policy aide in the U.S. House of Representatives and the Vermont General Assembly.
 
 Read more about me [here](bio/)
 
